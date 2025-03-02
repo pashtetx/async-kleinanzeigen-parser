@@ -14,9 +14,9 @@ cache = list()
 
 requests = [
     {
-        "keywords": ["iphone", "defekt"],
-        "max_price":100,
-        "min_price":0,
+        "keywords": ["iphone", "11"],
+        "max_price":200,
+        "min_price":50,
         "location_id":6411,
         "category_id":173,
     },
