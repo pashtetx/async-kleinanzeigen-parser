@@ -10,8 +10,16 @@
 **Kleinanzeigen parser** - fast and powerful data scraper that works on asynchronous queries.
 ## Installation
 
-**!IMPORTANT:** You need python >= 3.11 and follow the instruction:
+**!IMPORTANT:** You need python >= 3.11.
+Rename `.env TEMPLATE` to `.env` and edit your data in .env file.
 
+```
+file: .env TEMPLATE
+USER_ID=<Your user id from telegram>
+TOKEN=<bot token from telegram>
+```
+
+Then follow the instruction:
 1. `python -m venv venv`
 2. `source venv/bin/activate` (Windows: `venv\Scripts\activate`)
 3. `pip install -r requirements.txt`
