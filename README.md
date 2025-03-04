@@ -25,5 +25,11 @@ Then follow the instruction:
 3. `pip install -r requirements.txt`
 4. `python run.py`
 
+## TODO
+- Details parsing
+- User's API
+- Proxy support
+
+
 ## License
 Kleinanzeigen parser is licensed under the MIT license. [See LICENSE for more information.](https://github.com/pashtetx/async-kleinanzeigen-parser/blob/main/LICENSE)
